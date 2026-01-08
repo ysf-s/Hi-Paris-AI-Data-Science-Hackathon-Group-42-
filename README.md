@@ -1,4 +1,4 @@
-# PISA Math Score Prediction - Group 42
+# PISA Math Score Prediction
 
 This repository contains a solution for the Hi! Paris AI & Data Science Hackathon. The goal is to predict students' PISA Math Scores (`MathScore`) based on a variety of cognitive, behavioral, and socio-economic features.
 
